@@ -1,1 +1,2 @@
-# class-40-project
+# C40RV_SpeedRacer_StudentActivity
+Student Activity
